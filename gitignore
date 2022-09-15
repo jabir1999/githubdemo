@@ -1,0 +1,9 @@
+#to ignore the file
+my file.tst.txt
+#ignore a directory
+temp/
+jdk/
+cache
+#ignore all files
+.log
+
